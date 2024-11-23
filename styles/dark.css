@@ -7,7 +7,8 @@
 :root.theme_dark {
   --title-text-color: #db00ff;
   --accent-color: #ff0070;
-  --hover-color: rgba(255, 0, 112 ,0.5);
+  --hover-color: rgba(255, 0, 112 / 0.5);
+  --bg-color: #000028;
   --decoration-color: #ff0070;
   --main-text-color: #f1b2ce;
   --header-text-color: #000028;
@@ -20,7 +21,8 @@
 .page.theme_dark {
   --title-text-color: #db00ff;
   --accent-color: #ff0070;
-  --hover-color: rgba(255, 0, 112 ,0.5);
+  --hover-color: rgba(255, 0, 112 / 0.5);
+  --bg-color: #000028;
   --decoration-color: #ff0070;
   --main-text-color: #f1b2ce;
   --header-text-color: #000028;
